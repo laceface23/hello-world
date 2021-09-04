@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+
+Hello Strangers!
+
+Name's Lacey and I do abstract math. 
+Not for fun, for universe building.
+
+
